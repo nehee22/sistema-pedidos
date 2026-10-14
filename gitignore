@@ -1,0 +1,43 @@
+# === Archivos de Maven ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# === Archivos de IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# === Archivos de Eclipse ===
+.classpath
+.project
+.settings/
+bin/
+
+# === Archivos del sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Archivos de logs ===
+*.log
+logs/
+
+# === Variables de entorno ===
+.env
+*.env.local
+
+# === Archivos de compilación ===
+*.class
+*.jar
+*.war
+*.ear
